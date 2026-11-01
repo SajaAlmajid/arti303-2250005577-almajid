@@ -27,6 +27,7 @@ narwhals==2.28.0
 nest-asyncio2==1.7.2
 networkx==3.7
 numpy==2.5.3
+opencv-python==5.0.0.93
 packaging==26.3
 pandas==3.0.6
 parso==0.8.7
@@ -56,5 +57,4 @@ traitlets==5.16.1
 typing_extensions==4.16.0
 tzdata==2026.4
 wcwidth==0.8.3
-torch
-torchvision
+opencv-python
